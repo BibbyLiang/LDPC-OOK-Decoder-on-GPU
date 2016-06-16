@@ -9,7 +9,6 @@
 #include <helper_cuda.h>
 #include <helper_functions.h>
 #include "time.h"
-#include "stdio.h"
 #include <helper_math.h>
 #include "mt19937ar.h"
 
